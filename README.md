@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**omarmosid/omarmosid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi I'm Omar 👋
 
 I am a Self-taught Full-Stack Developer who is passionate about building great user-experiences.
 
@@ -11,4 +8,3 @@ I am a Self-taught Full-Stack Developer who is passionate about building great u
 - 💬 Ask me about book or movie recommendations
 - 📫 How to reach me: https://omarmo.com
 - ⚡ Fun fact: I love watching and playing football (soccer) :)
--->
