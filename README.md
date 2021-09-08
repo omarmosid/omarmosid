@@ -1,6 +1,6 @@
 ### Hi I'm Omar 👋
 
-I am a Self-taught Full-Stack Developer who is passionate about building great user-experiences.
+I am a Self-taught **Full-Stack Developer** who is passionate about building great user-experiences.
 
 - 🔭 I’m currently working on http://leapmetrics.io/
 - 🌱 I’m currently learning Python and Data Science
