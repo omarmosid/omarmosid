@@ -9,4 +9,5 @@ I am a Self-taught **Full-Stack Developer** who is passionate about building gre
 
 ---
 [![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarmosid)](https://github.com/omarmosid/github-readme-stats)
+
 [![Top Langs Omar uses](https://github-readme-stats.vercel.app/api/top-langs/?username=omarmosid)](https://github.com/omarmosid/github-readme-stats)
